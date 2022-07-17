@@ -1,6 +1,5 @@
 # programacion_ind
 
+Este es mi intento haciendo una rama en github
 
-En este curso estamos aprendiendo los comandos básicos para el uso del git y github
-
-este es mi segundo commit 
+como preste atencion será exitoso
